@@ -1,6 +1,6 @@
 
 Source: https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs/
-https://github.com/iamspruce/create-a-todo-app-with-React
+Git Hub: https://github.com/iamspruce/create-a-todo-app-with-React
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
