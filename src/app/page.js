@@ -17,7 +17,7 @@ function Home() {
     }
   }, [])
 
-const todos_completed = todos?.filter(
+const todos_completed = todos.filter(
     (todo) => todo.is_completed === true 
   ).length
   
